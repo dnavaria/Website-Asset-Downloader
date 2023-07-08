@@ -1,9 +1,8 @@
 # Scrape Site Assets
 
 ## Description
-- This script will scrape all assets from a site and download them to a local directory.
-- The script will create a directory for each site and download the assets to that directory.
-- The script will create a log file for each site and log the assets that were downloaded.
+- This Async program will scrape all assets from a site and download them to a local directory.
+- It will create a directory for each site and download the assets to that directory along with a log file for each site, logging the assets that were downloaded.
 
 
 ## Implementation Details
