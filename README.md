@@ -1,4 +1,4 @@
-# Scrape Site Assets
+# Website Asset Downloader
 
 ## Description
 - The Asset Downloader is a Python script that allows you to download images and other assets from a given website URL. It utilizes asynchronous programming with asyncio and aiohttp to efficiently download the assets concurrently. It also parses the HTML content of the website using BeautifulSoup to extract the URLs of the assets to be downloaded. The script logs the status and details of the downloaded assets to a log file.
