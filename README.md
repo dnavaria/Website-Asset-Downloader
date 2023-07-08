@@ -23,7 +23,7 @@
 ## Setup
 - Clone the repository or download the source code:
 ```bash
-git clone [https://github.com/dnavaria/Website-Asset-Downloader.git](https://github.com/dnavaria/Website-Asset-Downloader)
+git clone https://github.com/dnavaria/Website-Asset-Downloader.git
 ```
 - Install the required libraries with the following command:
     - `pip3 install -r requirements.txt`
