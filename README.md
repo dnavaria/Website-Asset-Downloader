@@ -1,7 +1,7 @@
 # Website Asset Downloader
 
 ## Description
-- The Asset Downloader is a Python script that allows you to download images and other assets from a given website URL. It utilizes asynchronous programming with asyncio and aiohttp to efficiently download the assets concurrently. It also parses the HTML content of the website using BeautifulSoup to extract the URLs of the assets to be downloaded. The script logs the status and details of the downloaded assets to a log file.
+- The Asset Downloader is a Python script that allows you to download images and other assets from a given website URL. It utilizes asynchronous programming with asyncio and aiohttp to download the assets concurrently. It also parses the HTML content of the website using BeautifulSoup to extract the URLs of the assets to be downloaded. The script logs the status and details of the downloaded assets to a log file.
 
 ## Features
 - Downloads images and other assets (videos, etc.) from a website URL.
@@ -23,7 +23,7 @@
 ## Setup
 - Clone the repository or download the source code:
 ```bash
-git clone https://github.com/dnavaria/scrape_site_assets.git
+git clone [https://github.com/dnavaria/Website-Asset-Downloader.git](https://github.com/dnavaria/Website-Asset-Downloader)
 ```
 - Install the required libraries with the following command:
     - `pip3 install -r requirements.txt`
