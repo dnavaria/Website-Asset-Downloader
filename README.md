@@ -7,13 +7,14 @@
 
 
 ## Implementation Details
-- The script will use the `aiohttp` library to make asynchronous HTTP requests.
-- The script will use the `aiofiles` library to make asynchronous file writes.
-- The script will use the `BeautifulSoup` library to parse the HTML.
-- The script will use the `urlparse` library to parse the URL.
-- The script will use the `os` library to create directories and files.
-- The script will use the `asyncio` library to run the asynchronous tasks.
-- The script will use the `logging` library to log the assets that were downloaded.
+- Libraries
+    - `aiohttp` -> Asynchronous HTTP requests
+    - `aiofiles` -> Asynchronous file writes
+    - `BeautifulSoup` -> HTML parsing
+    - `urlparse` -> URL parsing
+    - `os` -> Directory and file creation
+    - `asyncio` -> Asynchronous task execution
+    - `logging` -> Logging
 
 ## Setup
 - The script requires Python 3.7 or higher.
